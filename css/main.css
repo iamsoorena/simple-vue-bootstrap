@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "droid";
+    src: url("../fonts/DroidNaskh-Regular.woff");
+}
+
+.english{
+    direction: ltr;
+}
+
+tspan , .highcharts-legend-item{
+	font-family: droid,serif;
+	letter-spacing: normal;
+	direction: ltr;
+}
+
